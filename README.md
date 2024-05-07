@@ -1,6 +1,21 @@
 #shopping stor
 
 ---
+## screenshots
+### Customer Homepage
+![homepage snap](https://github.com/syfd74582/Shopping-Store/blob/master/image/Annotation%202024-05-06%20212944.png?raw=true)
+### admin
+![h](https://github.com/syfd74582/Shopping-Store/blob/master/image/Annotation%202024-05-06%20213142.png?raw=true)
+### 
+![cart snap](https://github.com/syfd74582/Shopping-Store/blob/master/image/Annotation%202024-05-06%20213216.png?raw=true)
+### add proudcte
+![orders snap](https://github.com/syfd74582/Shopping-Store/blob/master/image/Annotation%202024-05-06%20213313.png?raw=true)
+---
+### add proudcte
+![](https://github.com/syfd74582/Shopping-Store/blob/master/image/Annotation%202024-05-06%20213441.png?raw=true)
+### login
+![admin lgin](https://github.com/syfd74582/Shopping-Store/blob/master/image/Annotation%202024-05-06%20213043.png?raw=true)
+---
 ## FUNCTIONS
 ## Customer
 - Customer can view/search products without login.
