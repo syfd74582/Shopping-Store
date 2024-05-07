@@ -80,6 +80,9 @@ EMAIL_HOST_PASSWORD = 'your email password'
 EMAIL_RECEIVING_USER = 'youremail@gmail.com'
 
 ```
-##Contact Us
+##Contact with me
+-Contact with me
+```
 Email: alqyadydnan@gmail.com
 WhatsApp:+967771571397
+```
