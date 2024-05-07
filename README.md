@@ -79,7 +79,7 @@ EMAIL_HOST_USER = 'youremail@gmail.com'
 EMAIL_HOST_PASSWORD = 'your email password'
 EMAIL_RECEIVING_USER = 'youremail@gmail.com'
 
-
-##تواصل معنا
-البريد الإلكتروني: <alqyadydnan@gmail.com>
-WhatsApp: [رقم الهاتف](https://api.whatsapp.com/send/?phone=%2B967771571397&text&type=phone_number&app_absent=0)
+```
+##Contact Us
+Email: alqyadydnan@gmail.com
+WhatsApp:+967771571397
