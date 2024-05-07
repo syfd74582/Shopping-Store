@@ -1,15 +1,5 @@
-# ecommerce
-![developer](https://img.shields.io/badge/Developed%20By%20%3A-Sumit%20Kumar-red)
----
-## screenshots
-### Admin Dashboard
-![dashboard snap](https://github.com/sumitkumar1503/ecommerce/blob/master/static/screenshots/adminHomepage.png?raw=true)
-### Customer Homepage
-![homepage snap](https://github.com/sumitkumar1503/ecommerce/blob/master/static/screenshots/customerhomepage.png?raw=true)
-### Cart
-![cart snap](https://github.com/sumitkumar1503/ecommerce/blob/master/static/screenshots/cart.png?raw=true)
-### Track Orders
-![orders snap](https://github.com/sumitkumar1503/ecommerce/blob/master/static/screenshots/orderspage.png?raw=true)
+#shopping stor
+
 ---
 ## FUNCTIONS
 ## Customer
@@ -73,22 +63,4 @@ http://127.0.0.1:8000/
 EMAIL_HOST_USER = 'youremail@gmail.com'
 EMAIL_HOST_PASSWORD = 'your email password'
 EMAIL_RECEIVING_USER = 'youremail@gmail.com'
-```
-- Login to gmail through host email id in your browser and open following link and turn it ON
-```
-https://myaccount.google.com/lesssecureapps
-```
-## Drawbacks/LoopHoles
-- When user edit their profile then he/she must login again because their username/password is updated in db.
-- Popup of product is added to cart is shown when click on ecommerce logo (soon i will fix it)
 
-## Disclaimer
-This project is developed for demo purpose and it's not supposed to be used in real application.
-
-## Contributor
-- [Raxa](https://github.com/raxa217)
-
-## Feedback
-Any suggestion and feedback is welcome. You can message me on facebook
-- [Contact on Facebook](https://fb.com/sumit.luv)
-- [Subscribe my Channel LazyCoder On Youtube](https://youtube.com/lazycoders)
